@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal> 
-
-
-
-
-
-
-
-
-
   <Kits>
     <Item>
       <kitName>135_g63amg_modkit</kitName>
@@ -620,14 +611,4 @@
       <name>g63amg</name>
     </Item>
     </Lights>
-
-
-
-
-
-
-
-
-
-
 </CVehicleModelInfoVarGlobal>

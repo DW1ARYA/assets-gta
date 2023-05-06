@@ -2,16 +2,6 @@
 
 <CVehicleModelInfoVariation>
   <variationData> 
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>g63amg</modelName>
       <colors>
@@ -169,15 +159,5 @@
       <lightSettings value="1" />
       <sirenSettings value="0" />
     </Item>
-
-
-
-
-
-
-
-
-
-
   </variationData>
 </CVehicleModelInfoVariation>
