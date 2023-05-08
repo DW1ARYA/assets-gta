@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>yarisgr</modelName>
-      <txdName>yarisgr</txdName>
-      <handlingId>yarisgr</handlingId>
-      <gameName>GCM YarisGR</gameName>
+      <modelName>gryaris</modelName>
+      <txdName>gryaris</txdName>
+      <handlingId>gryaris</handlingId>
+      <gameName>GCM gryaris</gameName>
       <vehicleMakeName>GCM</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -126,7 +126,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>yarisgr</child>
+      <child>gryaris</child>
     </Item>
 
 
